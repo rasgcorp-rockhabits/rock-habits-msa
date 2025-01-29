@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rock-habits-msa
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/rockhabits
